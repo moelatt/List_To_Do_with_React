@@ -6,7 +6,7 @@ export default function About() {
         <div style = {textStyle}>
             <h1>About</h1>
             <p>This is the List-To-Do app v1.0.0. 
-                It is part for studying React</p>
+                It is part of studying React</p>
         </div>
     )
 }
